@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="hr">
+	<head> </head>
+	<body>
+		<h1>Biljke</h1>
+		<h2>Cvijeće</h2>
+		<p>Slike prirode</p>
+		<p>Jutarnja rosa na biljkama</p>
+		<img src="/images/lily.jpg" alt="lily" title=lily">
+		<img src="C:\Users\Nitro5\Desktop/vlat.jpg" width="200" height="200" alt="Kap rose na vlati trave" title="Vlat trave" />
+	</body>
+</html>
