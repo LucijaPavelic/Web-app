@@ -1,0 +1,56 @@
+<!DOCTYPE HTML>
+<html lang="hr">
+	<head>
+		<title>Programiranje web aplikacija</title>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		<meta name="description" content="">
+		<meta name="keywords" content="">
+		<meta name="author" content="Lucija Pavelić">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+	</head>
+	<body>
+        <h1>Neuređena lista</h1>
+        <ul>
+          <li>Samsung</li>
+          <li>Apple</li>
+          <li>Huawei</li>
+          <li>Panasonic</li>
+          <li>Motorola</li>
+        </ul>
+        
+        <h1>Uređena lista</h1>
+        <ol>
+          <li>Samsung</li>
+          <li>Apple</li>
+          <li>Huawei</li>
+          <li>Panasonic</li>
+          <li>Motorola</li>
+        </ol> 
+        <h1>Definicijska lista</h1>
+         <dl>
+         <ol>
+            <li>&nbsp; Samsung</li>
+            <ul type="disc">
+               <li>&nbsp; Galaxy S23 Ultra</li> 
+               <li>&nbsp; Galaxy S23+</li> 
+               <li>&nbsp; Galaxy S23</li> 
+               <li>&nbsp; Galaxy Z Fold 5</li> 
+               <li>&nbsp; Galaxy Z Flip 5</li> 
+            </ul>   
+         </ol>
+         </dl>
+         <dl><ol start="2">
+                <li>&nbsp; Apple</li>
+             <ol>
+              <li>&nbsp; iPhone 12</li>
+              <li>&nbsp; iPhone 13</li>
+              <li>&nbsp; iPhone 14 Plus</li>
+              <li>&nbsp; iPhone 15 Pro</li>
+         </dl></ol>   
+        <footer>&copy; Lucija Pavelić <a
+        href="https://www.github.com/l"
+        target="_blank">Github</a> &amp; Mobiteli. All rights reserved.
+        </footer>
+    </body>
+</html>
