@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head> 
+  <meta charset="UTF-8">
+  <meta name="author" content="Lucija Pavelić">
+  <meta name="keywords" content="">
+  <meta name="description" content="">
+  <meta name="viewport" content="width=	, initial-scale=1.0">
+  <title>Zadatak tri</title> 
+</head>
+	<body>
+		<h1>Biljke</h1>
+		
+    <h2>Cvijeće</h2>
+		<p>Dakako, pod prirodom zamišljamo šume, planine, rijeke i jezera, svagdje gdje nailazimo na životinje i bilje, odnosno divljinu, ali ne i čovjeka, odnosno njegove građevine. Priroda u širem, ali prenesenom značenju znači cijeli svemir, često biološke osobitosti ljudi („po prirodi je netko miran“), suprotnost umjetnog, čak i natprirodno. No priroda u izvornom obliku obuhvaća živi, ali i neživi svijet, a to su geološka podloga i tlo, voda, brojni atmosferski, geološki, hidrološki i ostali procesi te živa bića. Upravo su živi organizmi kruna prirode, po čemu se konačno naš planet izdvaja iz mnogih drugih.</p>
+		
+    <p>Unatoč svemu tome biljke su jedne od važnijih jer utječu na naš pogled na svijet i omogućavaju nam život u njemu.</p>
+		<figure>
+			<a href="/https://www.shepherdseeds.co.uk/wp-content/uploads/2021/01/Pot-Iily-Orange-Pixie-bulb.png "></a><img src= "/https://www.shepherdseeds.co.uk/wp-content/uploads/2021/01/Pot-Iily-Orange-Pixie-bulb.png " alt="lily">
+			<figcaption>
+				Narančasti ljiljan
+			</figcaption>
+		</figure>
+		<figure>
+			<a href="https://prirodahrvatske.com/wp-content/uploads/2018/05/DJI_0483.jpg"></a><img src="images/DJI_0483.jpg" width="200" height="200" alt="Šuma" >
+			<figcaption>
+				Slika šume 
+			</figcaption>
+		</figure>
+		
+	</body>
+</html>
