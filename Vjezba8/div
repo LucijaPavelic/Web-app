@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<html lang="hr">
+	<head>
+		<title>Programiranje 8.vježbe</title>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		<meta name="description" content="">
+		<meta name="keywords" content="">
+		<meta name="author" content="Lucija Pavelić">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="shortcut icon" type="image/x-icon" href="html-file.ico">
+	</head>
+    <body>
+        <div>
+            <h1>Head</h1>
+            <p>Human body consists of a lot of different &quot; units &quot; that are more developed such as <span style="font-style:consolas;color:olive">brain</span> and less developed ones.</p>
+			<p>For its normal work to be done, it has to have enough <span style="font-weight:bold;color:olive">SLEEP AND ENERGY</span> and less caffeine in the bloodstream.</p>
+		</div>
+			<h1>Body</h1>
+			<p>Also oter organysms must work propperly. The key to a good oxygen supply is <span style="font-style:consolas;font-weight:bold;color:pink">LUNGS</span>.</p>	
+			<p>But sometimes they don't because we are <span style="font-style:consolas;font-weight:bold;color:RED">SICK</span>.</p>
+	</body>
+</html>	
