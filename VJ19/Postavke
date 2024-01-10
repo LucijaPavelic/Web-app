@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lorem</title>
+
+    <style>
+        h1:hover {text-shadow: 5px 2px aqua;}
+
+        h1 {
+            text-transform: uppercase;
+            text-align: center;
+        }
+
+        p.first {
+         letter-spacing: 2px;
+         word-spacing: 7px;
+         text-indent: 50px;
+        }
+
+        p.second {
+            line-height: 20px;
+            text-indent: 50px;
+        }
+    </style>
+</head>
+<body>
+    <h1>LOREM IPSUM</h1>
+
+    <p id="first">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt ipsam distinctio cupiditate nisi consectetur, pariatur eum quaerat rerum, laborum sapiente vitae laudantium officiis. Exercitationem ipsam aperiam omnis perferendis aliquid voluptates!
+    </p>
+
+    <p id="second">
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellendus deserunt corrupti porro sint velit, labore exercitationem, optio quo laboriosam laudantium ullam, blanditiis veniam. Repellendus assumenda facere alias ab tenetur cumque.
+    </p>
+    
+</body>
+</html>
